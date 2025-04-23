@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Welcome to Star MLBB</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to top right, #ffe6f0, #ccf2ff);
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+    }
+    h1 {
+      color: #6a0572;
+      margin-top: 50px;
+      font-size: 32px;
+    }
+    p {
+      color: #444;
+      font-size: 16px;
+      margin: 10px;
+    }
+    .button-container {
+      margin: 30px 0;
+    }
+    .button {
+      background-color: #ff69b4;
+      color: white;
+      border: none;
+      padding: 12px 24px;
+      margin: 10px;
+      border-radius: 25px;
+      font-size: 16px;
+      cursor: pointer;
+      transition: 0.3s ease;
+    }
+    .button:hover {
+      background-color: #ff85c1;
+    }
+    .info-box {
+      background-color: #ffffffdd;
+      padding: 20px;
+      margin: 20px auto;
+      border-radius: 15px;
+      width: 80%;
+      max-width: 400px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    footer {
+      margin-top: 50px;
+      font-size: 12px;
+      color: #999;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Selamat Datang di Star MLBB!</h1>
+<p>Bersinar seperti bintang, bermain seperti legenda!</p>
+
+<div class="button-container">
+  <button class="button">Gabung Tim</button>
+  <button class="button">Cek Leaderboard</button>
+  <button class="button">Lihat Jadwal Turnamen</button>
+  <button class="button">Daftar Member Baru</button>
+</div>
+
+<div class="info-box">
+  <p><strong>Ada masalah atau tidak mengerti?</strong></p>
+  <p>Hubungi Owner: <strong>Feichi</strong></p>
+  <p>WA: <a href="https://wa.me/6289603355803">0896-0335-5803</a></p>
+  <p>Nomor Bot Fei: <a href="https://wa.me/6287763034415">0877-6303-4415</a></p>
+  <p>Grup WhatsApp: <a href="https://chat.whatsapp.com/DNCXUlMgoZGEUFSuiXCWrU" target="_blank">Klik untuk bergabung</a></p>
+</div>
+
+<footer>
+  &copy; 2025 Star MLBB Team. All rights reserved.
+</footer>
+
+</body>
+</html>
